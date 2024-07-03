@@ -15,13 +15,6 @@ The goal of our security audit project is to evaluate our organization's IT infr
 
 ## Steps
 
-- Access supporting msterials
-- Conduct the audit: Controls and compliance checklist
+- Access supporting msterials [Botium-Toys-Scope-goals-and-risk-assessment-report.docx](https://github.com/user-attachments/files/16076292/Botium-Toys-Scope-goals-and-risk-assessment-report.docx)
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+- Conduct the audit: Controls and compliance checklist [Controls and compliance checklist.docx](https://github.com/user-attachments/files/16076279/Controls.and.compliance.checklist.docx)
